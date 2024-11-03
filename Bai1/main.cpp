@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
     PhanSo a(3, 4), b(2, 5), c;
-    cout << "Nhap phan so a: " << a << endl;
+    cout << "Phan so a: " << a << endl;
     cout << "Nhap phan so b: " << endl;
     cin >> b;
     c = a + b;
